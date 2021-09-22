@@ -1,5 +1,8 @@
 # simple-agent-ai
 
+![Screenshot](demosmall.gif)
+
+
 ## Project setup
 ```
 npm install
